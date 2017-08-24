@@ -47,8 +47,6 @@ import org.spongepowered.api.event.item.inventory.DropItemEvent;
 import org.spongepowered.api.event.item.inventory.UseItemStackEvent;
 import org.spongepowered.api.event.message.MessageChannelEvent;
 
-//import org.spongepowered.api.event.entity.DisplaceEntityEvent;
-
 public class PreventListener {
 
     private final FlexibleLogin plugin = FlexibleLogin.getInstance();
